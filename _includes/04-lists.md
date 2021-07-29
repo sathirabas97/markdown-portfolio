@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Music
+* Sports
+  * Cricket
+  * Surfing
+* intresets
+  * Machine Learning
+  * IOT
+
+
+
